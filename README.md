@@ -1,0 +1,1 @@
+# Write-a-program-to-calculate-the-simple-interest-SI-P-R-T-100-.
